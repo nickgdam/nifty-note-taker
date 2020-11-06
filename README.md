@@ -29,7 +29,7 @@ This app requires the npm inquirer, util, and fs dependanceis.  Please type "npm
 
 ## Usage
 
-This app is free to use for anyone.  
+This app is free to use for anyone.  Link to deployed application: https://nifty--note-taker.herokuapp.com/
 
 ## License 
       This app is licensed under MIT.
