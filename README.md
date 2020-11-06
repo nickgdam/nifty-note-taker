@@ -16,8 +16,6 @@ This app is designed to let a user take, save and delete notes via node.js.
 
 * [Contributing](#contributing)
 
-* [Tests](#tests)
-
 * [Questions](#questions)
 
 
